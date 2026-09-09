@@ -1,0 +1,4 @@
+.env
+liquidation-trader-settings.json
+node_modules/
+logs/
